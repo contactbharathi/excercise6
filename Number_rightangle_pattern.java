@@ -8,7 +8,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Set;
 //Java Test
-
+//Java test1 from local repo
 public class Number_rightangle_pattern {
     public  void hashMap() {
 
